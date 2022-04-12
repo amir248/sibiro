@@ -1,8 +1,8 @@
 {
-  "main.css": "static/css/main.96c40436.css",
-  "main.css.map": "static/css/main.96c40436.css.map",
-  "main.js": "static/js/main.135425bf.js",
-  "main.js.map": "static/js/main.135425bf.js.map",
+  "main.css": "static/css/main.11178437.css",
+  "main.css.map": "static/css/main.11178437.css.map",
+  "main.js": "static/js/main.d7128517.js",
+  "main.js.map": "static/js/main.d7128517.js.map",
   "static/media/aprl.jpg": "static/media/aprl.a7409418.jpg",
   "static/media/aprl10.jpg": "static/media/aprl10.7b932f32.jpg",
   "static/media/aprl11.jpg": "static/media/aprl11.5a362a21.jpg",
@@ -24,9 +24,9 @@
   "static/media/boxThree2.png": "static/media/boxThree2.304e12f2.png",
   "static/media/boxTwo2.png": "static/media/boxTwo2.c6070623.png",
   "static/media/chet.png": "static/media/chet.8996b9fb.png",
-  "static/media/dwa.png": "static/media/dwa.03da3cd7.png",
+  "static/media/dwaR.png": "static/media/dwaR.d4dab5e9.png",
   "static/media/livingRoom.png": "static/media/livingRoom.f37fdb98.png",
-  "static/media/odyn.png": "static/media/odyn.d1dd5095.png",
+  "static/media/odynR.png": "static/media/odynR.6087c417.png",
   "static/media/oneDa.png": "static/media/oneDa.6a42dc97.png",
   "static/media/oneDan.png": "static/media/oneDan.9eea0ef0.png",
   "static/media/oneDs.png": "static/media/oneDs.1d784966.png",
@@ -38,7 +38,7 @@
   "static/media/oneUY.png": "static/media/oneUY.2b0c76f3.png",
   "static/media/oneUs.png": "static/media/oneUs.d371f084.png",
   "static/media/oneYt.png": "static/media/oneYt.2be8c4f7.png",
-  "static/media/try.png": "static/media/try.f2e24841.png",
+  "static/media/tryR.png": "static/media/tryR.65d04084.png",
   "static/media/v1.mp4": "static/media/v1.fabd61b9.mp4",
   "static/media/v2.mp4": "static/media/v2.86fbfd20.mp4"
 }
