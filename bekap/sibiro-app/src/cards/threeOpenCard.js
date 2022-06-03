@@ -62,7 +62,7 @@ class ThreeOpenCard extends Component {
       <p id="threeEl">
         <img src={ThreeImg} alt="img"/>
         <p style={{margin:'3%',fontSize:"20px"}}>Торговое оборудование</p>
-        <p style={{margin:'3%',fontSize:"20px"}}>Ресепшины, барные стойки, выставочные стелажи.</p>
+        <p style={{margin:'3%',fontSize:"20px"}}>Оборудование для торговли магазинов, баров, торговых площадей: Ресепшины, барные стойки, выставочные стелажи.</p>
         <span id='ClosedThree'>X</span>
       </p>
         <button onClick={()=>this.handleClickThree()}>Описание</button>
