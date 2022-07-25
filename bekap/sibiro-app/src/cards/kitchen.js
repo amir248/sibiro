@@ -30,9 +30,9 @@ class Kitchen extends Component {
       font-size:30px;
     `;
     document.querySelector('body').style.cssText=`overflow:hidden`;
-    document.querySelector('.boxCart').style.cssText=`width:100%;
+    document.querySelector('.boxCart').style.cssText=`width:100%`;
 
-    `
+
     // document.querySelector('#newEl').setAttribute('id','Closed');
         document.querySelector('#Closed').addEventListener('click',()=>{
           New.remove();
