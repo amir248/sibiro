@@ -20,11 +20,12 @@ class Kitchen extends Component {
       justify-content:center;
       align-items:center;
       position:fixed;
-      top:1px;
       flex-direction:column;
       width:100%;
-      max-width:100%;`
+      max-width:100%;
 
+
+      `
     document.querySelector('#Closed').style.cssText=`
       color:firebrick;
       font-size:30px;
@@ -65,7 +66,9 @@ class Kitchen extends Component {
     return (
       <React.Fragment>
       <p id="newEl">
+
         <img src={NewsImg} alt="img"/>
+
         <p style={{marginBottom:'3%',marginTop:"3%",fontSize:"20px",maxWidth:"900px",width:"100%"}}>Встраиваемые кухни по индивидуальным размерам! Уникальная разметка, под планировку квартиры.</p>
         <p style={{marginBottom:'3%',marginTop:"3%",fontSize:"20px",maxWidth:"900px",width:"100%"}}>Качество, долговечность и функциональность мебели на заказ с использованием современных технологий. Грамотно организуем пространство. Любые площади используем с максимальной пользой.</p>
         <span id='Closed'>X</span>
