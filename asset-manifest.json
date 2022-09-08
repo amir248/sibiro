@@ -1,13 +1,8 @@
 {
   "main.css": "static/css/main.fa73d05b.css",
   "main.css.map": "static/css/main.fa73d05b.css.map",
-<<<<<<< HEAD
-  "main.js": "static/js/main.d24f6416.js",
-  "main.js.map": "static/js/main.d24f6416.js.map",
-=======
-  "main.js": "static/js/main.d0b66726.js",
-  "main.js.map": "static/js/main.d0b66726.js.map",
->>>>>>> master
+  "main.js": "static/js/main.0e14420f.js",
+  "main.js.map": "static/js/main.0e14420f.js.map",
   "static/media/aprl.jpg": "static/media/aprl.a7409418.jpg",
   "static/media/aprl10.jpg": "static/media/aprl10.7b932f32.jpg",
   "static/media/aprl11.jpg": "static/media/aprl11.5a362a21.jpg",
@@ -58,13 +53,10 @@
   "static/media/oneUs.png": "static/media/oneUs.d371f084.png",
   "static/media/oneYt.png": "static/media/oneYt.2be8c4f7.png",
   "static/media/shk.JPG": "static/media/shk.a0c351bb.JPG",
-<<<<<<< HEAD
   "static/media/skaF_02.jpg": "static/media/skaF_02.0f5bbc4a.jpg",
   "static/media/skaS_03.jpg": "static/media/skaS_03.30722364.jpg",
   "static/media/skaV_04.jpg": "static/media/skaV_04.43fd4c5a.jpg",
   "static/media/skaf_01.jpg": "static/media/skaf_01.f9b253f5.jpg",
-=======
->>>>>>> master
   "static/media/torg.JPG": "static/media/torg.90faffd0.JPG",
   "static/media/tryR.png": "static/media/tryR.ca9818ab.png",
   "static/media/v1.mp4": "static/media/v1.fabd61b9.mp4",
