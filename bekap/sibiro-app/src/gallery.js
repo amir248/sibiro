@@ -49,11 +49,14 @@ import Img44 from '../gallery/tulaKitchen/image0027.jpg';
 import Img45 from '../gallery/tulaKitchen/image0028.jpg';
 import Img46 from '../gallery/tulaKitchen/image0029.jpg';
 
+<<<<<<< HEAD
 import Img47 from '../gallery/newPic/skaf_01.jpg';
 import Img48 from '../gallery/newPic/skaF_02.jpg';
 import Img49 from '../gallery/newPic/skaS_03.jpg';
 import Img50 from '../gallery/newPic/skaV_04.jpg';
 
+=======
+>>>>>>> master
 const IMG=[{
     "count":"0",
     "alt":"Встраиваемая кухня",
@@ -330,6 +333,7 @@ const IMG=[{
 "src":Img46,
 "hash": "tulaKitchen_10",
 "title": "Тульская кухня под заказ"
+<<<<<<< HEAD
 },{
 "count":'46',
 "alt":"Shkaf",
@@ -354,6 +358,8 @@ const IMG=[{
 "src":Img50,
 "hash": "shkaV",
 "title": "Встраиваемые шакафы"
+=======
+>>>>>>> master
 }];
 
 
