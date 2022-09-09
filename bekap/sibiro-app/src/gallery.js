@@ -49,10 +49,10 @@ import Img44 from '../gallery/tulaKitchen/image0027.jpg';
 import Img45 from '../gallery/tulaKitchen/image0028.jpg';
 import Img46 from '../gallery/tulaKitchen/image0029.jpg';
 
-import Img47 from '../gallery/newPic/skaf_01.jpg';
-import Img48 from '../gallery/newPic/skaF_02.jpg';
-import Img49 from '../gallery/newPic/skaS_03.jpg';
-import Img50 from '../gallery/newPic/skaV_04.jpg';
+import Img47 from '../gallery/newPic/ska_one.jpg';
+import Img48 from '../gallery/newPic/ska_two.jpg';
+import Img49 from '../gallery/newPic/ska_three.jpg';
+import Img50 from '../gallery/newPic/ska_four.jpg';
 
 const IMG=[{
     "count":"0",
@@ -354,7 +354,6 @@ const IMG=[{
 "src":Img50,
 "hash": "shkaV",
 "title": "Встраиваемые шакафы"
-
 }];
 
 

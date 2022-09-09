@@ -23,25 +23,17 @@ class Kitchen extends Component {
       top:1px;
       flex-direction:column;
       width:100%;
-      max-width:100%;
-      flex-direction:column;
-      width:100%;
-      max-width:100%;
-      `
+      max-width:100%;`
+
     document.querySelector('#Closed').style.cssText=`
       color:firebrick;
       font-size:30px;
     `;
     document.querySelector('body').style.cssText=`overflow:hidden`;
+    document.querySelector('.boxCart').style.cssText=`width:100%;
 
-    document.querySelector('.boxCart').style.cssText=`width:100%;`
-
-
-
-    document.querySelector('.boxCart').style.cssText=`width:100%`;
-
-
-    document.querySelector('#newEl').setAttribute('id','Closed');
+    `
+    // document.querySelector('#newEl').setAttribute('id','Closed');
         document.querySelector('#Closed').addEventListener('click',()=>{
           New.remove();
           document.querySelector('body').style.cssText=`overflow:auto;`
@@ -60,7 +52,7 @@ class Kitchen extends Component {
             flex-direction: column;
             color: white;
             text-shadow: 1px 1px black;
-        `;
+        `
       });
     // document.querySelector('#newEl').addEventListener('click',()=>{
     //   New.remove();
@@ -76,10 +68,6 @@ class Kitchen extends Component {
         <img src={NewsImg} alt="img"/>
         <p style={{margin:'3%',fontSize:"20px"}}>Встраиваемые кухни по индивидуальным размерам! Уникальная разметка, под планировку квартиры.</p>
         <p style={{margin:'3%',fontSize:"20px"}}>Качество, долговечность и функциональность мебели на заказ с использованием современных технологий. Грамотно организуем пространство. Любые площади используем с максимальной пользой.</p>
-
-
-        <p style={{marginBottom:'3%',marginTop:"3%",fontSize:"20px",maxWidth:"900px",width:"100%"}}>Встраиваемые кухни по индивидуальным размерам! Уникальная разметка, под планировку квартиры.</p>
-        <p style={{marginBottom:'3%',marginTop:"3%",fontSize:"20px",maxWidth:"900px",width:"100%"}}>Качество, долговечность и функциональность мебели на заказ с использованием современных технологий. Грамотно организуем пространство. Любые площади используем с максимальной пользой.</p>
         <span id='Closed'>X</span>
       </p>
         <button onClick={()=>this.handleClick()}>Описание</button>
