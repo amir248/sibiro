@@ -3,6 +3,7 @@ import React, { Component } from 'react';
 import './firstGallery.css';
 import Vidos from '../video/v1.mp4';
 import Vidos2 from '../video/v2.mp4';
+import Vidos3 from '../video/v3.mp4';
 
 
 const Vid=()=>{
@@ -22,20 +23,32 @@ const Vid=()=>{
    document.querySelector('#viv').append(one);
    one.style.cssText=`display:flex;justify-content:center;align-items:center;max-width:100%;width:250px;border-radius:20px;background:#77a677;height:37px;color:#7b7070;`
    one.innerHTML='Первое видео';
-   one.setAttribute('id', 'twoVidos');
+   one.setAttribute('id', 'oneVidos');
    let two=document.createElement('p');
    videous.setAttribute('src',Vidos);
 
    document.querySelector('#viv').append(two);
    two.innerHTML='Второе видео';
-   two.setAttribute('id', 'twoVidos2');
+   two.setAttribute('id', 'twoVidos');
    two.style.cssText=`display:flex;justify-content:center;align-items:center;max-width:100%;width:250px;border-radius:20px;background:#a4877d;height:37px;color:#7b7070;`
 
-     document.querySelector('#twoVidos').addEventListener("click",()=>{
+   let three=document.createElement('p');
+   videous.setAttribute('src',Vidos);
+
+   document.querySelector('#viv').append(three);
+   three.innerHTML='Третье';
+   three.setAttribute('id', 'threeVidos');
+   three.style.cssText=`display:flex;justify-content:center;align-items:center;max-width:100%;width:250px;border-radius:20px;background:#aaaa7d;height:37px;color:#7b7070;`
+
+
+     document.querySelector('#oneVidos').addEventListener("click",()=>{
         videous.setAttribute('src',Vidos);
      });
-     document.querySelector('#twoVidos2').addEventListener('click',()=>{
+     document.querySelector('#twoVidos').addEventListener('click',()=>{
        videous.setAttribute('src',Vidos2);
+     });
+     document.querySelector('#threeVidos').addEventListener('click',()=>{
+       videous.setAttribute('src',Vidos3);
      });
    }
 }

@@ -3,7 +3,7 @@ import './header.css';
 
 
 if(window.innerWidth>700){
-console.log("Экран больше 700");
+// console.log("Экран больше 700");
 }
 
 const Anotation=()=><div in='anotation' style={{background:"rgba(100,100,100,0.3)",color:"white",width:"1440px",maxWidth:"100%"}}><h1 style={{margin:"1%",textShadow:"1px 1px 1px black",textAlign:"center"}}>Мебель, созданная для того, чтобы жить в гармонии, создавая характерные и неподвластные времени пространства.</h1></div>;
@@ -30,10 +30,11 @@ function clickMenu(){
       document.querySelector("#lineThree").style.cssText=`display:none`;
       document.querySelector('body').style.cssText="overflow:hidden";
       document.querySelector('#list').innerHTML=`
-      <a href="#first">outbreak</a>
+      <!-- <a href="#first">outbreak</a> -->
       <a href="#gallery">Gallery</a>
-      <a href="tel:+79528807647">+79528807647</a>
-      <a href="#footer">Контакты</a>
+      <a href="tel:+79137870404">+79137870404</a>
+      <a href="tel:+79137870404">+9528807647</a>
+      <!-- <a href="#footer">Контакты</a> -->
       `;
     }else if(numberClick===2){
       numberClick=0;

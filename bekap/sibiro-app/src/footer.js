@@ -7,7 +7,7 @@ class Footer extends Component {
       <React.Fragment>
       <div id="footer">
         <h3>По всем вопросам:</h3>
-        <p><a href="tel:+79528807647">8952 880 76 47</a></p>
+        <p><a href="tel:+79137870404">8 913 787 04 04</a></p>
         <strong>Адрес:</strong>
         <p>Новосибирск, ул. Мира 58A</p>
       </div>

@@ -57,10 +57,10 @@ class FirstGallery extends Component {
     return (
       <React.Fragment>
       <div style={{display:"flex", justifyContent:"space-around",alignItems:"center",width:"1440px",maxWidth:"100%",minHeight:"170px",background:'white'}} onLoad={OkImage}>
-        <p><img src={OneImage} alt="#" title="#"/><span>Доставка</span></p>
-        <p><img src={TwoImage} alt="#" title="#"/><span>Дизайн</span></p>
-        <p><img src={ThreeImage} alt="#" title="#"/><span>Экологичный подход</span></p>
-        <p><img src={FourImage} alt="#" title="#"/><span>Зарубежные технологии</span></p>
+        <p style={{display:'flex',minHeight:'87px',justifyContent:'space-between',minWidth:'70px',fontSize:'10px',textAlign:'center',background:'rgba(200,255,255,0.3)',borderRadius:'7px'}}><img src={TwoImage} alt="Изготовление мебели по индивидуальным эскизам" title="Дизайн мебели по Вашему проекту"/><span  style={{fontSize:'10px',textAlign:'center'}}>Дизайн</span></p>
+        <p style={{display:'flex',minHeight:'87px',justifyContent:'space-around',minWidth:'70px',fontSize:'10px',textAlign:'center',background:'rgba(255,255,200,0.3)',borderRadius:'7px'}}><img src={OneImage} alt="Корпусная мебель под заказ с доставкой" title="Мебель с доставкой"/><span style={{fontSize:'10px',textAlign:'center'}}>Доставка</span></p>
+        <p style={{display:'flex',minHeight:'87px',justifyContent:'space-between',minWidth:'70px',fontSize:'10px',textAlign:'center',background:'rgba(255,200,255,0.3)',borderRadius:'7px'}}><img src={ThreeImage} alt="Заказать мебель" title="с заботой о природе"/><span style={{fontSize:'10px',textAlign:'center'}}>Экологичный подход</span></p>
+        <p style={{display:'flex',minHeight:'87px',justifyContent:'space-between',minWidth:'70px',fontSize:'10px',textAlign:'center',background:'rgba(255,200,200,0.3)',borderRadius:'7px'}}><img src={FourImage} alt="Современная корпусная мебель по зарубежным технологиям" title="Современные технологии"/><span style={{fontSize:'10px'}}>Зарубежные технологии</span></p>
       </div>
 
       <div style={{display:"flex", justifyContent:"center",alignItems:"center",width:"1440px",maxWidth:"100%",flexWrap:"wrap"}}>

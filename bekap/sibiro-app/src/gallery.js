@@ -49,13 +49,29 @@ import Img44 from '../gallery/tulaKitchen/image0027.jpg';
 import Img45 from '../gallery/tulaKitchen/image0028.jpg';
 import Img46 from '../gallery/tulaKitchen/image0029.jpg';
 
+import Img47 from '../gallery/newPic/skaf.jpg';
+import Img48 from '../gallery/newPic/ska.jpg';
+import Img49 from '../gallery/newPic/skas.jpg';
+import Img50 from '../gallery/newPic/skav.jpg';
 
-import Img47 from '../gallery/newPic/skaf_01.jpg';
-import Img48 from '../gallery/newPic/skaF_02.jpg';
-import Img49 from '../gallery/newPic/skaS_03.jpg';
-import Img50 from '../gallery/newPic/skaV_04.jpg';
-
-
+import Img51 from '../gallery/one.jpg';
+import Img52 from '../gallery/one_1.jpg';
+import Img53 from '../gallery/one_2.jpg';
+import Img54 from '../gallery/one_3.jpg';
+import Img55 from '../gallery/one_4.jpg';
+import Img56 from '../gallery/one_5.jpg';
+import Img57 from '../gallery/one_6.jpg';
+import Img58 from '../gallery/one_7.jpg';
+import Img59 from '../gallery/one_8.jpg';
+import Img60 from '../gallery/one_9.jpg';
+import Img61 from '../gallery/one_10.jpg';
+import Img62 from '../gallery/one_11.jpg';
+import Img63 from '../gallery/one_12.jpg';
+import Img64 from '../gallery/one_13.jpg';
+import Img65 from '../gallery/one_14.jpg';
+import Img66 from '../gallery/one_15.jpg';
+import Img67 from '../gallery/one_16.jpg';
+import Img68 from '../gallery/one_17.jpg';
 const IMG=[{
     "count":"0",
     "alt":"Встраиваемая кухня",
@@ -73,34 +89,34 @@ const IMG=[{
     "alt":"Кхня на заказ",
     "src":Img3,
     "hash": "kitchenTwo",
-    "title": "Good things Are going to Happen"
+    "title": "заказать кухонный гарнитур по размерам"
   },{
   "count":'3',
   "alt":"встраиваемая кухня",
   "src":Img4,
   "hash": "kitchenThree",
-  "title": "Good things Are going to Happen"
+  "title": "кухонные модули под заказ"
   },{
   "count":'4',
   "alt":"встраиваемая кухня",
   "src":Img5,
   "hash": "kitchenThre",
-  "title": "Good things Are going to Happen"
+  "title": "Угловая кухня заказать"
   },{
   "count":'5',
   "alt":"встраиваемая кухня",
   "src":Img6,
   "hash": "kitchenN",
-  "title": "Good things Are going to Happen"
+  "title": "кухонный гарнитур"
   },{
   "count":'6',
   "alt":"встраиваемая кухня",
   "src":Img7,
   "hash": "kitchen-",
-  "title": "встраиваемая кухняn"
+  "title": "встраиваемая кухня"
   },{
   "count":'7',
-  "alt":"встраиваемая кухня",
+  "alt":"кухни под заказ",
   "src":Img8,
   "hash": "kitchenU",
   "title": "встраиваемая кухня"
@@ -126,97 +142,97 @@ const IMG=[{
   "count":'11',
   "alt":"встраиваемая кухня",
   "src":Img12,
-  "hash": "kitchenT",
+  "hash": "kitchenKit",
   "title": "Good things Are going to Happen"
 },{
 "count":'12',
 "alt":"встраиваемая кухня",
 "src":Img13,
-"hash": "kitchenT",
+"hash": "kitchenTit",
 "title": "Good things Are going to Happen"
 },{
 "count":'13',
 "alt":"встраиваемая кухня",
 "src":Img14,
-"hash": "kitchenT",
+"hash": "kitchenBut",
 "title": "Good things Are going to Happen"
 },{
 "count":'14',
 "alt":"встраиваемая кухня",
 "src":Img15,
-"hash": "kitchenT",
+"hash": "kitchenVit",
 "title": "Good things Are going to Happen"
 },{
 "count":'15',
 "alt":"встраиваемая кухня",
 "src":Img16,
-"hash": "kitchenT",
+"hash": "kitchenZit",
 "title": "Good things Are going to Happen"
 },{
 "count":'16',
 "alt":"встраиваемая кухня",
 "src":Img17,
-"hash": "kitchenT",
+"hash": "kitchenRyt",
 "title": "Good things Are going to Happen"
 },{
 "count":'17',
 "alt":"Кухня под заказ",
 "src":Img18,
-"hash": "kitchenT",
+"hash": "kitchenUit",
 "title": "Встраиваемые кухни"
 },{
 "count":'18',
 "alt":"Шкафы, для балкона",
 "src":Img19,
-"hash": "kitchenT",
+"hash": "kitchenSobit",
 "title": "мебель на балкон"
 },{
 "count":'19',
 "alt":"книжные полки, стелажи",
 "src":Img20,
-"hash": "kitchenT",
+"hash": "book-shell-Bombit",
 "title": "книжные полки"
 },{
 "count":'20',
 "alt":"мебель на балкон",
 "src":Img21,
-"hash": "kitchenT",
+"hash": "balkonZhirnit",
 "title": "Good things Are going to Happen"
 },{
 "count":'21',
 "alt":"рабочий стол",
 "src":Img22,
-"hash": "kitchenT",
+"hash": "balkon-stol",
 "title": "Good things Are going to Happen"
 },{
 "count":'22',
 "alt":"встраиваемая планировка",
 "src":Img23,
-"hash": "kitchenT",
+"hash": "dekstop",
 "title": "Good things Are going to Happen"
 },{
 "count":'23',
 "alt":"рабочий стол на балконе",
 "src":Img24,
-"hash": "kitchenT",
+"hash": "balkoni-dackstop",
 "title": "Good things Are going to Happen"
 },{
 "count":'24',
 "alt":"большая кухня",
 "src":Img25,
-"hash": "kitchenT",
+"hash": "kitchenT8",
 "title": "Good things Are going to Happen"
 },{
 "count":'25',
 "alt":"Удобная кухня",
 "src":Img26,
-"hash": "kitchenT",
+"hash": "kitchenT15",
 "title": "Good things Are going to Happen"
 },{
 "count":'26',
 "alt":"встраиваемая кухня",
 "src":Img27,
-"hash": "kitchenT",
+"hash": "kitchenT19",
 "title": "Good things Are going to Happen"
 },{
 "count":'27',
@@ -332,31 +348,132 @@ const IMG=[{
 "src":Img46,
 "hash": "tulaKitchen_10",
 "title": "Тульская кухня под заказ"
-
 },{
 "count":'46',
-"alt":"Shkaf",
+"alt":"Шкафы купе, заказать!",
 "src":Img47,
 "hash": "shkaf",
 "title": "Встраиваемые шакафы"
 },{
 "count":'47',
-"alt":"Shkaf",
+"alt":"Встараиваемые шкафы купе под заказ.",
 "src":Img48,
 "hash": "shkaF",
 "title": "Встраиваемые шакафы"
 },{
 "count":'48',
-"alt":"Shkaf",
+"alt":"Заказать шкаф купе",
 "src":Img49,
-"hash": "shkaS",
+"hash": "shkas",
 "title": "Встраиваемые шакафы"
 },{
 "count":'49',
-"alt":"Shkaf",
+"alt":"Шкаф купе на заказ",
 "src":Img50,
-"hash": "shkaV",
+"hash": "shkav",
 "title": "Встраиваемые шакафы"
+},{
+"count":'50',
+"alt":"Шкаф купе на заказ",
+"src":Img51,
+"hash": "closet-O_o",
+"title": "Встраиваемые шакафы"
+},{
+"count":'51',
+"alt":"Шкаф купе на заказ",
+"src":Img52,
+"hash": "shelf",
+"title": "Встраиваемые шакафы"
+},{
+"count":'52',
+"alt":"Шкаф на заказ",
+"src":Img53,
+"hash": "shkaff",
+"title": "Встраиваемые шакафы"
+},{
+"count":'53',
+"alt":"Шкаф купе на заказ",
+"src":Img54,
+"hash": "tumbochki-and-shelf",
+"title": "Встраиваемые шакафы"
+},{
+"count":'54',
+"alt":"Шкаф купе на заказ",
+"src":Img55,
+"hash": "closet",
+"title": "Встраиваемые шакафы"
+},{
+"count":'55',
+"alt":"Шкаф купе на заказ",
+"src":Img56,
+"hash": "closet_1",
+"title": "Встраиваемые шакафы"
+},{
+"count":'56',
+"alt":"Шкаф купе на заказ",
+"src":Img57,
+"hash": "closet_2",
+"title": "Встраиваемые шакафы"
+},{
+"count":'58',
+"alt":"Шкаф купе на заказ",
+"src":Img59,
+"hash": "closet_3",
+"title": "Встраиваемые шакафы"
+},{
+"count":'59',
+"alt":"Кухни!",
+"src":Img60,
+"hash": "kitchen-pro",
+"title": "Удобные кухни на заказ"
+},{
+"count":'60',
+"alt":"Кухни заказать",
+"src":Img61,
+"hash": "kitchen-ind",
+"title": "Кухни по индивидуальным проектам."
+},{
+"count":'61',
+"alt":"Кухни на заказ",
+"src":Img62,
+"hash": "kitchen-excellent",
+"title": "Удобная кухня под заказ"
+},{
+"count":'62',
+"alt":"Кухни купе на заказ",
+"src":Img63,
+"hash": "closet_6",
+"title": "модульная кухня"
+},{
+"count":'63',
+"alt":"Любая корпусная мебель",
+"src":Img64,
+"hash": "furniture",
+"title": "Встраиваемые модульные гарнитуры"
+},{
+"count":'64',
+"alt":"Модуль",
+"src":Img65,
+"hash": "furniture-modul",
+"title": "удобные модули под пространство"
+},{
+"count":'65',
+"alt":"closet",
+"src":Img66,
+"hash": "kloset-ind",
+"title": "Кухни по индивидуальным проектам."
+},{
+"count":'66',
+"alt":"Кухни!",
+"src":Img67,
+"hash": "kloset-ok",
+"title": "Кухни по индивидуальным проектам."
+},{
+"count":'67',
+"alt":"Кухни!",
+"src":Img68,
+"hash": "kitchen-ok",
+"title": "Кухни по индивидуальным проектам."
 }];
 
 
@@ -368,26 +485,112 @@ const onLd=()=>{
   }
 }
 
-  let Cl=11; // Вторая фотка
-  const Clicker=()=>{
-    // console.log("FC Click"+Cl);
-    Cl++;
-    // body > main > gallery > img:nth-child(5)
-    if(WIW){
-      for(let Oj=0;Oj<IMG.length;Oj++){
-      if(Cl===Oj){
-          document.querySelector('#Photo').setAttribute('src', IMG[Oj].src);
-          document.querySelector('#Photo').setAttribute('alt', IMG[Oj].alt);
-          document.querySelector('#Photo').setAttribute('title', IMG[Oj].title);
-      }else{
-          if(Cl===IMG.length){
-            Cl=0;
-          }
+// window.addEventListener('DOMContentLoaded',firstLoaded);
+window.addEventListener('DOMContentLoaded',goList);
+window.addEventListener("hashchange",goList);
+
+// for(let oy=0;oy<IMG.length;oy++){
+//   if(window.location.hash='#'+`${IMG[oy].count}`){
+//     console.log('couNT');
+//     localStorage.clickerOn=`${IMG[oy].count}`;
+//   }
+// }
+  if(localStorage.clickerOn===undefined){
+    firstLoaded();
+    // console.log('undefined');
+  }else{
+    // localStorage.clickerOn=11;
+    // console.log('eLse');
+  }
+  function firstLoaded(){
+    for(let oY=0;oY<IMG.length;oY++){
+      console.log('Yra!!!');
+      // console.log(`${IMG[oY].count}`);
+      if(window.location.hash=='#'+`${IMG[oY].hash}`){
+        // console.log(`${IMG[oY].count}`+"____________");
+        // console.log(`${IMG[oY].hash}`);
+        localStorage.clickerOn=`${IMG[oY].count}`;
+      }else if(window.location.hash===''){
+        if(window.locatin=='#'+`${IMG[oY].hash}`){
+          localStorage.clickerOn=`${IMG[oY].count}`;
+        }else{
+          // console.log('undefined ELSE');
+          localStorage.clickerOn=`${IMG[oY].count}`;
         }
+      }else{
+
+        // console.log('yV18');
       }
     }
   }
+  // firstLoaded();
+  // localStorage.clickerOn; // Вторая фотка
+  const Clicker=()=>{
+    // console.log("FC Click");
+    localStorage.clickerOn++;
+    if(localStorage.clickerOn>=IMG.length){
+      localStorage.clickerOn=0;
+    }
+    // body > main > gallery > img:nth-child(5)
+    goList();
+    if(WIW){
+      // for(let Oj=0;Oj<IMG.length;Oj++){
+      //   if(window.location.hash===`${IMG[Oj].hash}`&&localStorage!==undefined){
+      //     // document.querySelector('#Photo').setAttribute('hash', IMG[Oj].hash);
+      //   }
+      // }
+    }
+  }
+if(localStorage.clickerOn===NaN){
+  firstLoaded();
+}
+  function goList(){
+    for(let Oj=0; Oj<IMG.length;Oj++){
+      //
+      // if(window.location.hash===`${IMG[Oj].hash}`){
+      //   console.log(IMG[Oj].hash);
+      //   // document.querySelector('#Photo').setAttribute('src', IMG[Oj].src);
+      //   // document.querySelector('#Photo').setAttribute('alt', IMG[Oj].alt);
+      //   // document.querySelector('#Photo').setAttribute('title', IMG[Oj].title);
+      //   window.location.hash='#'+`${IMG[Oj].hash}`;
+      //   location.href='http://localhost:3000/#'+`${IMG[Oj].hash}`;
+      // }else{
+      //   console.log('no');
+      // }
+      if(localStorage.clickerOn==Oj){
+        if(window.location.hash===''){
+          // console.log('YNDEFINED');
+        }else if(window.location.hash==='#first'){
+          window.location.hash='#first';
+        }else if(window.location.hash==='tel:+79137870404'){
+          window.location.href='tel:+79137870404';
+        }else if(window.location.hash==='#footer'){
+          window.location.hash='#footer';
+        }else if(window.location.hash=='#'+`${IMG[Oj].hash}`){
+          // console.log('window.location.hash!@');
+          window.location.hash=`${IMG[Oj].hash}`;
+          localStorage.clickerOn=`${IMG[Oj].count}`;
+          document.querySelector('body > main:nth-child(1) > gallery:nth-child(4) > p:nth-child(2)').innerHTML='<strong id='+`${IMG[Oj].hash}`+'>'+ `${IMG[Oj].title}`+'</strong>';
+        }else{
+          // console.log('est!@');
+          window.location.hash='#'+`${IMG[localStorage.clickerOn].hash}`; // работает от function firstLoaded() O_o
+          // firstLoaded();
+        }
 
+        // console.log(localStorage.clickerOn);
+        document.querySelector('#Photo').setAttribute('src', IMG[localStorage.clickerOn].src);
+        document.querySelector('#Photo').setAttribute('alt', IMG[localStorage.clickerOn].alt);
+        document.querySelector('#Photo').setAttribute('title', IMG[localStorage.clickerOn].title);
+        document.querySelector('body > main:nth-child(1) > gallery:nth-child(4) > p:nth-child(2)').innerHTML='<strong id='+`${IMG[localStorage.clickerOn].hash}`+'>'+ `${IMG[localStorage.clickerOn].title}`+'</strong>';
+        // window.location.hash=`${IMG[Oj].hahs}`;
+      }else{
+        // console.log('goList ELSE');
+        if(localStorage.clickerOn>=IMG.length){
+          localStorage.clickerOn=0;
+        }
+      }
+    }
+  }//goList();
 
 const Cocl={
   one:0,
@@ -399,9 +602,51 @@ const Cocl={
     if(!WIW){
       document.querySelector('#butL').innerHTML=`<`;
       document.querySelector('#butR').innerHTML=`>`;
+
+      window.addEventListener('DOMContentLoaded',refactoring());
+      window.addEventListener('hashchange',refactoring);
     }
   }
+  function refactoring(){
+    for(let ref=0;ref<=IMG.length;ref++){
+      if(window.location.hash==='#'+`${IMG[localStorage.clickerOn].hash}`){
+        console.log(ref);
+        window.location.hash=`${IMG[localStorage.clickerOn].hash}`;
+        localStorage.clickerOn=`${IMG[localStorage.clickerOn].count}`;
+
+        document.querySelector('#Photo').setAttribute('src', IMG[localStorage.clickerOn-(1)].src);
+        document.querySelector('#Photo').setAttribute('alt', IMG[localStorage.clickerOn-(1)].alt);
+        document.querySelector('#Photo').setAttribute('title', IMG[localStorage.clickerOn-(1)].title);
+
+        document.querySelector('#Phot2').setAttribute('src', IMG[localStorage.clickerOn].src);
+        document.querySelector('#Phot2').setAttribute('alt', IMG[localStorage.clickerOn].alt);
+        document.querySelector('#Phot2').setAttribute('title', IMG[localStorage.clickerOn].title);
+        document.querySelector('body > main:nth-child(1) > gallery:nth-child(4) > p:nth-child(2)').innerHTML='<strong id='+`${IMG[localStorage.clickerOn].hash}`+'>'+ `${IMG[localStorage.clickerOn].title}`+'</strong>';
+
+        document.querySelector('#Phot3').setAttribute('src', IMG[localStorage.clickerOn[+1]].src);
+        document.querySelector('#Phot3').setAttribute('alt', IMG[localStorage.clickerOn[+1]].alt);
+        document.querySelector('#Phot3').setAttribute('title', IMG[localStorage.clickerOn[+1]].title);
+      }
+    }
+  }
+  function countClickLocalStorage(){
+    if(localStorage.clickerOn>=IMG.length){
+      localStorage.clickerOn=0;
+    }else if(localStorage.clickerOn<=0){
+      localStorage.clickerOn=IMG.length;
+      // if(localStorage.clickerOn<=+1){
+      //   localStorage.clickerOn=IMG.length;
+      // }
+    }else{
+      // console.log('Else countClickLocalStorage');
+    }
+  }
+
   const butL=()=>{
+    localStorage.clickerOn--;
+    countClickLocalStorage();
+refactoring();
+    //
     Cocl.one--;
     Cocl.two--;
     Cocl.three--;
@@ -412,20 +657,28 @@ const Cocl={
     }else if(Cocl.three===0||Cocl.three===-1){
       Cocl.three=IMG.length-1;
     }
+    // goList();
+
     // console.log(Cocl.one+" "+Cocl.two+" "+Cocl.three+" "+IMG.length);
-    document.querySelector('#Photo').setAttribute('src', IMG[Cocl.one].src);
-    document.querySelector('#Photo').setAttribute('alt', IMG[Cocl.one].alt);
-    document.querySelector('#Photo').setAttribute('title', IMG[Cocl.one].title);
+    document.querySelector('#Photo').setAttribute('src', IMG[localStorage.clickerOn-(1)].src);
+    document.querySelector('#Photo').setAttribute('alt', IMG[localStorage.clickerOn-(1)].alt);
+    document.querySelector('#Photo').setAttribute('title', IMG[localStorage.clickerOn-(1)].title);
 
-    document.querySelector('#Phot2').setAttribute('src', IMG[Cocl.two].src);
-    document.querySelector('#Phot2').setAttribute('alt', IMG[Cocl.two].alt);
-    document.querySelector('#Phot2').setAttribute('title', IMG[Cocl.two].title);
+    document.querySelector('#Phot2').setAttribute('src', IMG[localStorage.clickerOn].src);
+    document.querySelector('#Phot2').setAttribute('alt', IMG[localStorage.clickerOn].alt);
+    document.querySelector('#Phot2').setAttribute('title', IMG[localStorage.clickerOn].title);
+        document.querySelector('body > main:nth-child(1) > gallery:nth-child(4) > p:nth-child(2)').innerHTML='<strong id='+`${IMG[localStorage.clickerOn].hash}`+'>'+ `${IMG[localStorage.clickerOn].title}`+'</strong>';
+        window.location.hash=`${IMG[localStorage.clickerOn].hash}`;
+        localStorage.clickerOn=`${IMG[localStorage.clickerOn].count}`;
 
-    document.querySelector('#Phot3').setAttribute('src', IMG[Cocl.three].src);
-    document.querySelector('#Phot3').setAttribute('alt', IMG[Cocl.three].alt);
-    document.querySelector('#Phot3').setAttribute('title', IMG[Cocl.three].title);
+    document.querySelector('#Phot3').setAttribute('src', IMG[localStorage.clickerOn[+1]].src);
+    document.querySelector('#Phot3').setAttribute('alt', IMG[localStorage.clickerOn[+1]].alt);
+    document.querySelector('#Phot3').setAttribute('title', IMG[localStorage.clickerOn[+1]].title);
   }
   const butR=()=>{
+    localStorage.clickerOn++;
+    countClickLocalStorage();
+refactoring();
     Cocl.one++;
     Cocl.two++;
     Cocl.three++;
@@ -438,17 +691,20 @@ const Cocl={
     }else if(Cocl.one===IMG.length||Cocl.one>IMG.length){
       Cocl.one=0;
     }
-    document.querySelector('#Photo').setAttribute('src', IMG[Cocl.one].src);
-    document.querySelector('#Photo').setAttribute('alt', IMG[Cocl.one].alt);
-    document.querySelector('#Photo').setAttribute('title', IMG[Cocl.one].title);
+    document.querySelector('#Photo').setAttribute('src', IMG[localStorage.clickerOn-(1)].src);
+    document.querySelector('#Photo').setAttribute('alt', IMG[localStorage.clickerOn-(1)].alt);
+    document.querySelector('#Photo').setAttribute('title', IMG[localStorage.clickerOn-(1)].title);
 
-    document.querySelector('#Phot2').setAttribute('src', IMG[Cocl.two].src);
-    document.querySelector('#Phot2').setAttribute('alt', IMG[Cocl.two].alt);
-    document.querySelector('#Phot2').setAttribute('title', IMG[Cocl.two].title);
+    document.querySelector('#Phot2').setAttribute('src', IMG[localStorage.clickerOn].src);
+    document.querySelector('#Phot2').setAttribute('alt', IMG[localStorage.clickerOn].alt);
+    document.querySelector('#Phot2').setAttribute('title', IMG[localStorage.clickerOn].title);
+        document.querySelector('body > main:nth-child(1) > gallery:nth-child(4) > p:nth-child(2)').innerHTML='<strong id='+`${IMG[localStorage.clickerOn].hash}`+'>'+ `${IMG[localStorage.clickerOn].title}`+'</strong>';
+        localStorage.clickerOn=`${IMG[localStorage.clickerOn].count}`;
+        
 
-    document.querySelector('#Phot3').setAttribute('src', IMG[Cocl.three].src);
-    document.querySelector('#Phot3').setAttribute('alt', IMG[Cocl.three].alt);
-    document.querySelector('#Phot3').setAttribute('title', IMG[Cocl.three].title);
+    document.querySelector('#Phot3').setAttribute('src', IMG[localStorage.clickerOn[+1]].src);
+    document.querySelector('#Phot3').setAttribute('alt', IMG[localStorage.clickerOn[+1]].alt);
+    document.querySelector('#Phot3').setAttribute('title', IMG[localStorage.clickerOn[+1]].title);
   }
 class Gallery extends Component {
 
