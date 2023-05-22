@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/sibiro/static/css/main.0c009492.css",
-    "main.js": "/sibiro/static/js/main.fec6dbcc.js",
+    "main.css": "/sibiro/static/css/main.d34291b2.css",
+    "main.js": "/sibiro/static/js/main.5f142f7a.js",
     "static/js/787.f704e224.chunk.js": "/sibiro/static/js/787.f704e224.chunk.js",
     "static/media/v3.mp4": "/sibiro/static/media/v3.baccd06b2b7a0bd1174d.mp4",
     "static/media/mod.JPG": "/sibiro/static/media/mod.1320a5884f3b0d06446a.JPG",
@@ -88,12 +88,12 @@
     "static/media/yr1.jpg": "/sibiro/static/media/yr1.ac1bf38bbcc23e1f3b44.jpg",
     "static/media/yr7.jpg": "/sibiro/static/media/yr7.06dee637b7ff5f4add90.jpg",
     "index.html": "/sibiro/index.html",
-    "main.0c009492.css.map": "/sibiro/static/css/main.0c009492.css.map",
-    "main.fec6dbcc.js.map": "/sibiro/static/js/main.fec6dbcc.js.map",
+    "main.d34291b2.css.map": "/sibiro/static/css/main.d34291b2.css.map",
+    "main.5f142f7a.js.map": "/sibiro/static/js/main.5f142f7a.js.map",
     "787.f704e224.chunk.js.map": "/sibiro/static/js/787.f704e224.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0c009492.css",
-    "static/js/main.fec6dbcc.js"
+    "static/css/main.d34291b2.css",
+    "static/js/main.5f142f7a.js"
   ]
 }
